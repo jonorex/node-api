@@ -4,7 +4,7 @@ Este projeto fornece uma API RESTful em Node.js para gerenciamento de jogadores,
 
 ---
 
-## Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
 * Node.js
 * Express
@@ -14,7 +14,7 @@ Este projeto fornece uma API RESTful em Node.js para gerenciamento de jogadores,
 
 ---
 
-## Instalação
+## 🚀 Instalação
 
 1. Clone este repositório:
 
@@ -47,7 +47,7 @@ CONNECTION_STRING=mysql://root:senha@localhost:3306/cards-db
 
 ---
 
-## Configuração do Banco de Dados
+## 🔧 Configuração do Banco de Dados
 
 1. Garanta que o MySQL/MariaDB esteja rodando.
 2. Crie o banco de dados:
@@ -59,7 +59,7 @@ CONNECTION_STRING=mysql://root:senha@localhost:3306/cards-db
 
 ---
 
-## Estrutura de Arquivos
+## 🗂 Estrutura de Arquivos
 
 ```
 ├── db.js           # Camada de acesso ao banco (funções CRUD)
@@ -70,7 +70,7 @@ CONNECTION_STRING=mysql://root:senha@localhost:3306/cards-db
 
 ---
 
-## Endpoints da API
+## 📝 Endpoints da API
 
 ### Jogadores
 
@@ -162,11 +162,5 @@ node index.js
 ```
 
 A API estará disponível em `http://localhost:<PORT>`.
-
----
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
 ---
